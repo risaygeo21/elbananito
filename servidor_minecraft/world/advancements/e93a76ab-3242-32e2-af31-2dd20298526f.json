@@ -1347,5 +1347,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-10 21:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-10 21:16:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
