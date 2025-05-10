@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-05-08 22:32:28 +0000",
       "minecraft:taiga": "2025-05-08 22:41:35 +0000",
       "minecraft:ocean": "2025-05-08 22:31:03 +0000",
+      "minecraft:cherry_grove": "2025-05-10 21:57:24 +0000",
       "minecraft:river": "2025-05-08 22:32:04 +0000",
       "minecraft:meadow": "2025-05-08 23:03:21 +0000",
       "minecraft:birch_forest": "2025-05-08 22:07:42 +0000",
@@ -1131,6 +1132,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-10 21:54:45 +0000",
       "minecraft:spider": "2025-05-09 00:22:38 +0000",
       "minecraft:zombie": "2025-05-08 23:35:59 +0000",
       "minecraft:creeper": "2025-05-08 23:35:56 +0000"
@@ -1356,6 +1358,48 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-10 21:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-10 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-10 22:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-10 22:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-10 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-10 22:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-10 21:52:32 +0000"
     },
     "done": true
   },
