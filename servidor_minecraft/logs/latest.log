@@ -24,3 +24,8 @@
 [21:16:40] [Server thread/INFO]: risaygeo has made the advancement [What a Deal!]
 [21:25:51] [Server thread/INFO]: risaygeo lost connection: Disconnected
 [21:25:51] [Server thread/INFO]: risaygeo left the game
+[21:42:18] [Server thread/INFO]: risaygeo[/127.198.129.163:33437] logged in with entity id 6385 at (921.5, 68.0, 127.5)
+[21:42:18] [Server thread/INFO]: risaygeo joined the game
+[21:44:18] [Server thread/INFO]: risaygeo lost connection: Timed out
+[21:44:18] [Server thread/INFO]: risaygeo left the game
+[21:44:18] [Server thread/WARN]: handleDisconnection() called twice
