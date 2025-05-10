@@ -13,6 +13,7 @@
       "minecraft:river": "2025-05-08 22:29:56 +0000",
       "minecraft:meadow": "2025-05-08 22:55:25 +0000",
       "minecraft:birch_forest": "2025-05-08 22:27:53 +0000",
+      "minecraft:dripstone_caves": "2025-05-10 22:34:45 +0000",
       "minecraft:plains": "2025-05-08 22:52:09 +0000"
     },
     "done": false
@@ -1530,21 +1531,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_raw_gold": "2025-05-10 21:49:37 +0000"
+      "has_rail": "2025-05-10 21:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-10 21:35:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-05-10 21:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-05-10 21:49:37 +0000"
     },
     "done": true
   },
@@ -1560,15 +1561,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_string": "2025-05-10 21:48:01 +0000"
+      "has_minecart": "2025-05-10 21:35:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_raw_gold": "2025-05-10 21:49:37 +0000"
+      "has_minecart": "2025-05-10 21:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-10 21:48:01 +0000"
     },
     "done": true
   },
@@ -1590,21 +1597,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-10 21:35:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-10 21:48:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-10 21:35:15 +0000"
     },
     "done": true
   },
@@ -1614,15 +1609,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_rail": "2025-05-10 21:35:15 +0000"
+      "has_raw_gold": "2025-05-10 21:49:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
-      "has_minecart": "2025-05-10 21:35:19 +0000"
+      "has_raw_gold": "2025-05-10 21:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-10 21:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-10 22:34:52 +0000"
     },
     "done": true
   },
