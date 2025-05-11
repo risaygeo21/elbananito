@@ -18,3 +18,4 @@
 [15:00:58] [Server thread/INFO]: Done (4.648s)! For help, type "help"
 [15:01:07] [Server thread/INFO]: risaygeo[/127.198.129.163:42203] logged in with entity id 1 at (919.7381900206697, 68.4375, 124.07499998807907)
 [15:01:07] [Server thread/INFO]: risaygeo joined the game
+[15:28:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=981, y=65, z=149} jd{x=981, y=65, z=150}
