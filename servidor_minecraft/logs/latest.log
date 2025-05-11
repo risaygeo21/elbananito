@@ -36,3 +36,31 @@
 [01:16:09] [Server thread/INFO]: haudelsexy left the game
 [01:17:54] [Server thread/INFO]: haudelsexy[/127.157.23.43:47545] logged in with entity id 13910 at (1115.4439241584503, 65.0, 430.69999998807907)
 [01:17:54] [Server thread/INFO]: haudelsexy joined the game
+[01:50:27] [Server thread/INFO]: haudelsexy lost connection: Disconnected
+[01:50:27] [Server thread/INFO]: haudelsexy left the game
+[01:57:26] [Server thread/INFO]: haudelsexy[/127.157.23.43:43403] logged in with entity id 22286 at (927.7076321454524, 69.0, 103.68875968184521)
+[01:57:26] [Server thread/INFO]: haudelsexy joined the game
+[01:58:26] [Server thread/INFO]: haudelsexy lost connection: Timed out
+[01:58:26] [Server thread/INFO]: haudelsexy left the game
+[01:58:26] [Server thread/WARN]: handleDisconnection() called twice
+[02:02:24] [Server thread/INFO]: haudelsexy[/127.157.23.43:46929] logged in with entity id 23034 at (927.7076321454524, 69.0, 103.68875968184521)
+[02:02:24] [Server thread/INFO]: haudelsexy joined the game
+[02:07:56] [Server thread/INFO]: Villager cmk['Villager'/20191, l='ServerLevel[world]', x=920.30, y=66.00, z=107.51] died, message: 'Villager suffocated in a wall'
+[02:08:51] [Server thread/INFO]: [Not Secure] <risaygeo> -1104231161609925142
+[02:09:41] [Server thread/INFO]: risaygeo lost connection: Disconnected
+[02:09:41] [Server thread/INFO]: risaygeo left the game
+[02:09:43] [Server thread/INFO]: haudelsexy has made the advancement [Take Aim]
+[02:12:35] [Server thread/INFO]: risaygeo[/127.198.129.163:41745] logged in with entity id 25501 at (906.6999999880791, 74.0, 75.49555929853449)
+[02:12:35] [Server thread/INFO]: risaygeo joined the game
+[02:17:34] [Server thread/INFO]: haudelsexy lost connection: Disconnected
+[02:17:34] [Server thread/INFO]: haudelsexy left the game
+[02:17:40] [Server thread/INFO]: haudelsexy[/127.157.23.43:52381] logged in with entity id 27220 at (991.5702598161924, 5.3268999830451635, 262.30000001192093)
+[02:17:40] [Server thread/INFO]: haudelsexy joined the game
+[02:18:42] [Server thread/INFO]: risaygeo was blown up by Creeper
+[02:21:17] [Server thread/INFO]: haudelsexy drowned
+[02:29:52] [Server thread/INFO]: haudelsexy lost connection: Disconnected
+[02:29:52] [Server thread/INFO]: haudelsexy left the game
+[02:29:55] [Server thread/INFO]: haudelsexy[/127.157.23.43:43181] logged in with entity id 31236 at (999.1717273433085, 48.0, 260.51249998807907)
+[02:29:55] [Server thread/INFO]: haudelsexy joined the game
+[02:34:21] [Server thread/INFO]: haudelsexy has made the advancement [What a Deal!]
+[02:39:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=945, y=64, z=190} jd{x=944, y=62, z=189}
