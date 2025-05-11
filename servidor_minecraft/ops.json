@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "e93a76ab-3242-32e2-af31-2dd20298526f",
+    "name": "risaygeo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ce7dc478-e9f4-321a-9406-0c210e0d997c",
+    "name": "risaygeo21",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

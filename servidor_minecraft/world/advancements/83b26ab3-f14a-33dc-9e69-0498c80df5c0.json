@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-05-08 22:30:00 +0000",
+      "minecraft:beach": "2025-05-11 00:54:59 +0000",
       "minecraft:dark_forest": "2025-05-08 22:45:47 +0000",
       "minecraft:forest": "2025-05-08 22:50:27 +0000",
       "minecraft:river": "2025-05-08 22:29:56 +0000",
@@ -487,7 +488,9 @@
       "chicken": "2025-05-08 22:35:43 +0000",
       "cooked_chicken": "2025-05-09 00:23:44 +0000",
       "cooked_mutton": "2025-05-08 23:51:19 +0000",
-      "cooked_beef": "2025-05-08 23:01:44 +0000"
+      "salmon": "2025-05-11 01:02:54 +0000",
+      "cooked_beef": "2025-05-08 23:01:44 +0000",
+      "porkchop": "2025-05-11 01:04:31 +0000"
     },
     "done": false
   },
@@ -1967,6 +1970,24 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-10 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-11 01:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-11 01:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-11 01:02:52 +0000"
     },
     "done": true
   },
