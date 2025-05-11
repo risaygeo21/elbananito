@@ -8,10 +8,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-05-08 22:30:00 +0000",
+      "minecraft:snowy_slopes": "2025-05-11 01:09:17 +0000",
       "minecraft:beach": "2025-05-11 00:54:59 +0000",
       "minecraft:dark_forest": "2025-05-08 22:45:47 +0000",
       "minecraft:forest": "2025-05-08 22:50:27 +0000",
+      "minecraft:cherry_grove": "2025-05-11 01:08:35 +0000",
       "minecraft:river": "2025-05-08 22:29:56 +0000",
+      "minecraft:grove": "2025-05-11 01:09:34 +0000",
       "minecraft:meadow": "2025-05-08 22:55:25 +0000",
       "minecraft:birch_forest": "2025-05-08 22:27:53 +0000",
       "minecraft:dripstone_caves": "2025-05-10 22:34:45 +0000",
@@ -1973,6 +1976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-11 01:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-11 01:02:52 +0000"
@@ -1988,6 +1997,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-05-11 01:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 01:11:09 +0000"
     },
     "done": true
   },

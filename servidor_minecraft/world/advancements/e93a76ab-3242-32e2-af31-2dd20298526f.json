@@ -17,6 +17,7 @@
       "minecraft:frozen_peaks": "2025-05-11 01:02:53 +0000",
       "minecraft:ocean": "2025-05-08 22:31:03 +0000",
       "minecraft:cherry_grove": "2025-05-10 21:57:24 +0000",
+      "minecraft:grove": "2025-05-11 01:08:54 +0000",
       "minecraft:meadow": "2025-05-08 23:03:21 +0000",
       "minecraft:birch_forest": "2025-05-08 22:07:42 +0000",
       "minecraft:plains": "2025-05-08 22:49:33 +0000"
@@ -2236,9 +2237,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-11 01:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-05-11 01:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 01:08:56 +0000"
     },
     "done": true
   },
