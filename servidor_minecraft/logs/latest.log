@@ -1,76 +1,19 @@
-[00:50:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:50:39] [ServerMain/INFO]: Loaded 1290 recipes
-[00:50:40] [ServerMain/INFO]: Loaded 1399 advancements
-[00:50:40] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:50:40] [Server thread/INFO]: Loading properties
-[00:50:40] [Server thread/INFO]: Default game type: SURVIVAL
-[00:50:40] [Server thread/INFO]: Generating keypair
-[00:50:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:50:40] [Server thread/INFO]: Using epoll channel type
-[00:50:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:50:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:50:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:50:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:50:41] [Server thread/INFO]: Preparing level "world"
-[00:50:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:50:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:50:46] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[00:50:46] [Server thread/INFO]: Time elapsed: 637 ms
-[00:50:46] [Server thread/INFO]: Done (5.304s)! For help, type "help"
-[00:51:12] [Server thread/INFO]: risaygeo[/127.198.129.163:57243] logged in with entity id 22 at (1034.7502714222192, -47.0, 214.7869478051888)
-[00:51:12] [Server thread/INFO]: risaygeo joined the game
-[00:51:19] [Server thread/INFO]: haudelsexy[/127.157.23.43:36661] logged in with entity id 238 at (16.94594151681452, 63.0, -118.165315982864)
-[00:51:20] [Server thread/INFO]: haudelsexy joined the game
-[00:57:55] [Server thread/INFO]: haudelsexy was slain by Zombie
-[01:02:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=587, y=59, z=222} jd{x=587, y=60, z=222}
-[01:05:02] [Server thread/INFO]: Villager cmk['Villager'/7455, l='ServerLevel[world]', x=916.67, y=66.56, z=107.52] died, message: 'Villager suffocated in a wall'
-[01:06:40] [Server thread/INFO]: haudelsexy was doomed to fall by Skeleton
-[01:07:32] [Server thread/INFO]: Made risaygeo21 a server operator
-[01:07:42] [Server thread/INFO]: Made risaygeo a server operator
-[01:08:16] [Server thread/INFO]: [risaygeo: Teleported haudelsexy to 763.500000, 22.000000, 249.500000]
-[01:08:34] [Server thread/INFO]: [risaygeo: Teleported haudelsexy to risaygeo]
-[01:10:55] [Server thread/INFO]: haudelsexy fell from a high place
-[01:11:09] [Server thread/INFO]: [risaygeo: Teleported haudelsexy to risaygeo]
-[01:13:45] [Server thread/INFO]: [Not Secure] <risaygeo> 1122 66 426
-[01:16:09] [Server thread/INFO]: haudelsexy lost connection: Disconnected
-[01:16:09] [Server thread/INFO]: haudelsexy left the game
-[01:17:54] [Server thread/INFO]: haudelsexy[/127.157.23.43:47545] logged in with entity id 13910 at (1115.4439241584503, 65.0, 430.69999998807907)
-[01:17:54] [Server thread/INFO]: haudelsexy joined the game
-[01:50:27] [Server thread/INFO]: haudelsexy lost connection: Disconnected
-[01:50:27] [Server thread/INFO]: haudelsexy left the game
-[01:57:26] [Server thread/INFO]: haudelsexy[/127.157.23.43:43403] logged in with entity id 22286 at (927.7076321454524, 69.0, 103.68875968184521)
-[01:57:26] [Server thread/INFO]: haudelsexy joined the game
-[01:58:26] [Server thread/INFO]: haudelsexy lost connection: Timed out
-[01:58:26] [Server thread/INFO]: haudelsexy left the game
-[01:58:26] [Server thread/WARN]: handleDisconnection() called twice
-[02:02:24] [Server thread/INFO]: haudelsexy[/127.157.23.43:46929] logged in with entity id 23034 at (927.7076321454524, 69.0, 103.68875968184521)
-[02:02:24] [Server thread/INFO]: haudelsexy joined the game
-[02:07:56] [Server thread/INFO]: Villager cmk['Villager'/20191, l='ServerLevel[world]', x=920.30, y=66.00, z=107.51] died, message: 'Villager suffocated in a wall'
-[02:08:51] [Server thread/INFO]: [Not Secure] <risaygeo> -1104231161609925142
-[02:09:41] [Server thread/INFO]: risaygeo lost connection: Disconnected
-[02:09:41] [Server thread/INFO]: risaygeo left the game
-[02:09:43] [Server thread/INFO]: haudelsexy has made the advancement [Take Aim]
-[02:12:35] [Server thread/INFO]: risaygeo[/127.198.129.163:41745] logged in with entity id 25501 at (906.6999999880791, 74.0, 75.49555929853449)
-[02:12:35] [Server thread/INFO]: risaygeo joined the game
-[02:17:34] [Server thread/INFO]: haudelsexy lost connection: Disconnected
-[02:17:34] [Server thread/INFO]: haudelsexy left the game
-[02:17:40] [Server thread/INFO]: haudelsexy[/127.157.23.43:52381] logged in with entity id 27220 at (991.5702598161924, 5.3268999830451635, 262.30000001192093)
-[02:17:40] [Server thread/INFO]: haudelsexy joined the game
-[02:18:42] [Server thread/INFO]: risaygeo was blown up by Creeper
-[02:21:17] [Server thread/INFO]: haudelsexy drowned
-[02:29:52] [Server thread/INFO]: haudelsexy lost connection: Disconnected
-[02:29:52] [Server thread/INFO]: haudelsexy left the game
-[02:29:55] [Server thread/INFO]: haudelsexy[/127.157.23.43:43181] logged in with entity id 31236 at (999.1717273433085, 48.0, 260.51249998807907)
-[02:29:55] [Server thread/INFO]: haudelsexy joined the game
-[02:34:21] [Server thread/INFO]: haudelsexy has made the advancement [What a Deal!]
-[02:39:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=945, y=64, z=190} jd{x=944, y=62, z=189}
-[02:43:56] [Server thread/INFO]: risaygeo was shot by Skeleton
-[02:45:20] [Server thread/INFO]: haudelsexy was slain by Zombie
-[02:45:29] [Server thread/INFO]: [risaygeo: Teleported haudelsexy to risaygeo]
-[02:50:59] [Server thread/INFO]: risaygeo has made the advancement [Hot Stuff]
-[02:53:28] [Server thread/INFO]: haudelsexy tried to swim in lava
-[03:04:46] [Server thread/INFO]: haudelsexy has made the advancement [Cover Me with Diamonds]
-[03:05:27] [Server thread/INFO]: risaygeo has made the advancement [Cover Me with Diamonds]
-[03:09:54] [Server thread/INFO]: Villager cmk['Villager'/35294, l='ServerLevel[world]', x=920.70, y=66.00, z=107.24] died, message: 'Villager suffocated in a wall'
-[03:27:10] [Server thread/INFO]: haudelsexy lost connection: Disconnected
-[03:27:10] [Server thread/INFO]: haudelsexy left the game
+[13:07:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:07:36] [ServerMain/INFO]: Loaded 1290 recipes
+[13:07:37] [ServerMain/INFO]: Loaded 1399 advancements
+[13:07:37] [Server thread/INFO]: Starting minecraft server version 1.21
+[13:07:37] [Server thread/INFO]: Loading properties
+[13:07:37] [Server thread/INFO]: Default game type: SURVIVAL
+[13:07:37] [Server thread/INFO]: Generating keypair
+[13:07:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:07:38] [Server thread/INFO]: Using epoll channel type
+[13:07:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:07:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:07:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:07:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:07:38] [Server thread/INFO]: Preparing level "world"
+[13:07:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:07:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:07:42] [Worker-Main-1/INFO]: Preparing spawn area: 65%
+[13:07:42] [Server thread/INFO]: Time elapsed: 538 ms
+[13:07:42] [Server thread/INFO]: Done (3.820s)! For help, type "help"
