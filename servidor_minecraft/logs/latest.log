@@ -1,39 +1,25 @@
-[05:24:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:24:06] [ServerMain/INFO]: Loaded 1290 recipes
-[05:24:06] [ServerMain/INFO]: Loaded 1399 advancements
-[05:24:06] [Server thread/INFO]: Starting minecraft server version 1.21
-[05:24:06] [Server thread/INFO]: Loading properties
-[05:24:06] [Server thread/INFO]: Default game type: SURVIVAL
-[05:24:06] [Server thread/INFO]: Generating keypair
-[05:24:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:24:07] [Server thread/INFO]: Using epoll channel type
-[05:24:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:24:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:24:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:24:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:24:07] [Server thread/INFO]: Preparing level "world"
-[05:24:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:24:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:24:10] [Server thread/INFO]: Time elapsed: 498 ms
-[05:24:10] [Server thread/INFO]: Done (3.639s)! For help, type "help"
-[05:24:19] [Server thread/INFO]: risaygeo[/127.198.129.163:49607] logged in with entity id 1 at (928.906682461095, 66.0, 115.69999998807907)
-[05:24:19] [Server thread/INFO]: risaygeo joined the game
-[05:28:48] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:28:50] [Server thread/INFO]: [risaygeo: Set own game mode to Creative Mode]
-[05:29:24] [Server thread/INFO]: [risaygeo: Successfully filled 1 block(s)]
-[05:30:25] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:31:14] [Server thread/INFO]: [risaygeo: Set own game mode to Creative Mode]
-[05:31:19] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:38:10] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:39:19] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:42:07] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:42:15] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:42:25] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:42:27] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:43:42] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:43:44] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:43:52] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:43:54] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:47:51] [Server thread/INFO]: [risaygeo: Set own game mode to Spectator Mode]
-[05:47:53] [Server thread/INFO]: [risaygeo: Set own game mode to Survival Mode]
-[05:52:16] [Server thread/INFO]: [risaygeo: Set own game mode to Creative Mode]
+[23:36:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:36:30] [ServerMain/INFO]: Loaded 1290 recipes
+[23:36:30] [ServerMain/INFO]: Loaded 1399 advancements
+[23:36:31] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:36:31] [Server thread/INFO]: Loading properties
+[23:36:31] [Server thread/INFO]: Default game type: SURVIVAL
+[23:36:31] [Server thread/INFO]: Generating keypair
+[23:36:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:36:31] [Server thread/INFO]: Using epoll channel type
+[23:36:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:36:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:36:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:36:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:36:31] [Server thread/INFO]: Preparing level "world"
+[23:36:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:36:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:36:36] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[23:36:36] [Server thread/INFO]: Time elapsed: 577 ms
+[23:36:36] [Server thread/INFO]: Done (5.564s)! For help, type "help"
+[23:37:19] [Server thread/INFO]: risaygeo[/127.198.129.163:50977] logged in with entity id 1 at (915.4138508426748, 68.0, 117.04148440345013)
+[23:37:19] [Server thread/INFO]: risaygeo joined the game
+[23:37:35] [Server thread/INFO]: [Not Secure] <risaygeo> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[23:37:37] [Server thread/INFO]: [Not Secure] <risaygeo> wwwwwwwwwwwwwwwwwwwwwwwww
+[23:43:19] [Server thread/INFO]: risaygeo lost connection: Disconnected
+[23:43:19] [Server thread/INFO]: risaygeo left the game
